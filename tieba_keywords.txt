@@ -1,0 +1,124 @@
+• Direct Elder-Scam Phrases: 养老诈骗, 老人被骗, 老年人被骗, 家里老人被骗, 家中老人被骗, 老人上当, 老人被坑, 老人被忽悠, 老人被洗脑, 骗老人, 专骗老人, 骗老年人, 专骗老年人, 养老钱被骗, 养老金被骗, 退休金被骗, 棺材本被骗, 血汗钱被骗, 老人被骗怎么办, 家里老人被骗怎么办
+
+
+• Elder / Older-Adult Signals: 老人, 老年, 老年人, 中老年, 老人家, 老头, 老太, 老太太, 老爷子, 老奶奶, 大爷, 大妈, 退休, 退休老人, 六旬, 七旬, 八旬, 九旬, 60多岁, 70多岁, 80多岁, 90多岁, 养老钱, 养老金, 退休金, 棺材本, 血汗钱
+
+
+• Family / Caregiver Elder Signals: 家里老人, 家中老人, 父母, 爸妈, 我妈, 我爸, 老妈, 老爸, 妈妈, 爸爸, 母亲, 父亲, 爷爷, 奶奶, 外公, 外婆, 姥姥, 姥爷, 公公, 婆婆, 岳父, 岳母, 长辈
+
+
+• Weak Family-Scam Phrases Requiring Extra Context: 父母被骗, 爸妈被骗, 我妈被骗, 我爸被骗, 老妈被骗, 老爸被骗, 母亲被骗, 父亲被骗, 爷爷被骗, 奶奶被骗, 外公被骗, 外婆被骗, 姥姥被骗, 姥爷被骗
+
+
+• Scam / Fraud Event Signals: 被骗, 被骗了, 诈骗, 骗子, 骗局, 骗钱, 骗财, 上当, 上当受骗, 被坑, 坑骗, 坑害, 忽悠, 被忽悠, 洗脑, 被洗脑, 套路, 诱导, 误导, 虚假宣传, 夸大宣传, 传销, 非法集资, 资金盘, 庞氏, 跑路, 爆雷, 兑付, 电诈, 杀猪盘, 骗老人, 专骗老人, 骗老年人, 专骗老年人, 收割老人, 割老年人韭菜
+
+
+• Loss / Payment / Recovery Signals: 交钱, 交了钱, 转账, 付款, 付费, 充值, 汇款, 打款, 借钱, 贷款, 抵押, 扣费, 自动扣费, 免密支付, 乱扣费, 花了, 花掉, 损失, 亏了, 赔了, 欠款, 退款, 退货, 退费, 拒退, 不退, 维权, 投诉, 举报, 报警, 报案, 起诉, 追回, 立案, 拉黑, 失联, 联系不上, 合同, 签字, 收据, 发票, 保证金, 手续费, 服务费, 鉴定费, 会员费, 押金, 定金, 万元, 几万, 上万, 十万, 几十万, 百万
+
+
+• Health Product / Meeting-Marketing Scam Terms: 保健品, 保健, 养生, 理疗仪, 治疗仪, 高电位, 频谱, 净水器, 净水机, 床垫, 乳胶床垫, 按摩椅, 按摩器, 羊奶粉, 蜂胶, 药酒, 神药, 假药, 偏方, 包治百病, 会销, 讲座, 健康讲座, 健康课, 听课, 体验店, 免费鸡蛋, 免费礼品, 免费体检, 免费旅游, 拉去听课, 养生馆, 保健房, 权健, 无限极, 中脉, 可喜安, 老妈乐, 骏丰频谱
+
+
+• Health Product Context Terms: 被骗, 骗局, 骗子, 坑, 坑害, 忽悠, 洗脑, 套路, 诱导, 误导, 虚假宣传, 夸大宣传, 会销, 讲座, 听课, 免费鸡蛋, 免费礼品, 高价, 天价, 包治百病, 退款, 退货, 退费, 投诉, 报警, 举报, 花了, 交钱, 万元, 几万, 上万, 欠钱, 借钱, 不肯吃药, 沉迷, 蛊惑
+
+
+• Health Product Context-Aware Queries: 老人 保健品 被骗, 老人 保健品 洗脑, 老人 保健品 忽悠, 老人 保健品 高价, 老人 保健品 退款, 老人 保健品 投诉, 老人 会销, 老人 讲座 保健品, 老人 免费鸡蛋 保健品, 老人 理疗仪 被骗, 老人 治疗仪 被骗, 老人 净水器 被骗, 老人 羊奶粉 被骗, 父母 保健品 被骗, 我妈 保健品 被骗, 我爸 保健品 被骗, 爷爷 保健品 被骗, 奶奶 保健品 被骗
+
+
+• Investment / P2P / MLM / Illegal Fundraising Terms: 投资, 理财, P2P, 非法集资, 资金盘, 传销, 1040, MBI, 高收益, 高回报, 返利, 分红, 原始股, 股权, 区块链, 虚拟币, 数字货币, 外汇, 期货, 养老项目, 养老产业, 养老公寓, 养老基地, 养老床位, 以房养老, 民族资产, 国家发钱, 国家补贴, 扶贫款, 解冻资产, 下载APP, 刷流水, 带单老师, 老师带单, 项目方, 认购, 入股, 充值
+
+
+• Investment / Finance Context Terms: 被骗, 骗局, 骗子, 坑, 忽悠, 洗脑, 传销, 非法集资, 资金盘, 高收益, 高回报, 返利, 分红, 跑路, 爆雷, 兑付, 维权, 报警, 投诉, 转账, 交钱, 充值, 投了, 投入, 亏了, 损失, 债, 欠, 投资被骗, 理财被骗, 养老钱, 退休金, 养老金, 万元, 几万, 上万, 保证金, 刷流水, 拉群, 微信群, 带单, 老师, 下线, 会员
+
+
+• Investment / Finance Context-Aware Queries: 老人 投资 被骗, 老人 理财 被骗, 老人 P2P 被骗, 老人 非法集资, 老人 资金盘, 老人 传销, 老人 高收益 被骗, 老人 高回报 被骗, 老人 投资 跑路, 老人 理财 爆雷, 养老钱 投资 被骗, 退休金 投资 被骗, 养老金 理财 被骗, 父母 投资 被骗, 父母 理财 被骗, 父母 传销 洗脑, 我妈 投资 被骗, 我爸 投资 被骗, 老人 国家发钱 下载APP, 老人 国家补贴 保证金, 老人 民族资产 解冻, 老人 扫码 领钱
+
+
+• Insurance / Banking / Social Security Terms: 保险, 买保险, 养老保险, 社保, 代办社保, 代办养老保险, 补缴社保, 补缴养老保险, 分红险, 理财险, 保单, 银保, 存款变保险, 退保, 保费, 理赔, 拒赔, 百万医疗, 人寿, 平安保险, 太平洋保险, 泰康, 中国人寿, 银行理财, 银行存款
+
+
+• Insurance / Banking Context Terms: 被骗, 骗子, 骗局, 坑, 忽悠, 诱导, 误导, 洗脑, 虚假宣传, 夸大宣传, 存款变保险, 被误导买保险, 代办, 补缴, 退保, 拒赔, 理赔纠纷, 无法理赔, 合同, 保单, 自动扣费, 乱扣费, 免密, 扣走, 不翼而飞, 投诉, 报警, 起诉, 维权, 退费, 退款, 花了, 交钱, 万元, 几万, 上万, 违规划款, 欺骗老人, 洗脑营销
+
+
+• Insurance / Banking Context-Aware Queries: 老人 保险 被骗, 老人 买保险 被骗, 老人 被误导买保险, 老人 保险 忽悠, 老人 保险 诱导, 老人 保险 退保, 老人 保险 拒赔, 老人 保险 投诉, 老人 保险 维权, 老人 自动扣费 保险, 老人 存款变保险, 老人 分红险 被骗, 老人 理财险 被骗, 老人 养老保险 代办, 老人 代办社保 被骗, 父母 保险 被骗, 父母 买保险 被骗, 我妈 保险 被骗, 我爸 保险 被骗
+
+
+• Collectibles / Jade / Auction / Appraisal Terms: 收藏品, 收藏, 纪念币, 纪念钞, 钱币, 邮票, 邮币卡, 玉石, 翡翠, 和田玉, 玉镯, 珠宝, 蜜蜡, 玛瑙, 古玩, 古董, 字画, 银元, 文交所, 拍卖, 鉴定, 鉴宝, 回购, 高价回收, 血檀, 手串, 海参
+
+
+• Collectibles / Auction Context Terms: 被骗, 骗子, 骗局, 坑, 忽悠, 洗脑, 高价, 天价, 拍卖, 鉴定费, 服务费, 会员费, 保证金, 回购, 高价回收, 退款, 退货, 投诉, 报警, 交钱, 花了, 万元, 几万, 上万, 旅游, 云南, 卖给老人, 情感主播, 不值, 假货, 割韭菜
+
+
+• Collectibles / Auction Context-Aware Queries: 老人 收藏品 被骗, 老人 纪念币 被骗, 老人 邮票 被骗, 老人 邮币卡 被骗, 老人 翡翠 被骗, 老人 玉石 被骗, 老人 和田玉 被骗, 老人 拍卖 被骗, 老人 鉴定费 被骗, 老人 高价回收 被骗, 父母 收藏品 被骗, 父母 纪念币 被骗, 我妈 翡翠 被骗, 我爸 玉石 被骗, 老人 云南 玉石 被骗, 老人 旅游 翡翠 被骗
+
+
+• Livestream / Platform / Telecom / Shopping Terms: 抖音, 快手, 直播, 直播间, 主播, 视频号, 电视购物, 老人机, 手机, 平板, 学习机, 宽带, 移动, 联通, 电信, 套餐, 低价旅游, 旅游团, 购物团, 自动扣费, 免密支付, 货到付款, 免费领, 免费送, 扫码, 下载APP, APP, 微信群, 群
+
+
+• Livestream / Platform / Telecom / Shopping Context Terms: 被骗, 骗子, 骗局, 坑, 坑害, 忽悠, 诱导, 误导, 洗脑, 套路, 虚假宣传, 货不对板, 假货, 高价, 天价, 自动扣费, 免密, 乱扣费, 退货, 退款, 拒退, 不退, 投诉, 报警, 交钱, 花了, 万元, 几万, 上万, 下载APP, 扫码, 加老师, 国家发钱, 保证金, 刷流水, 伪造, 公章, 财政部, 扶贫, 老师, 领钱, 转账, 充值
+
+
+• Livestream / Platform / Telecom / Shopping Context-Aware Queries: 老人 抖音 被骗, 老人 快手 被骗, 老人 直播 被骗, 老人 直播间 保健品, 老人 视频号 洗脑, 老人 情感主播 被骗, 老人 电视购物 被骗, 老人 老人机 扣费, 老人 手机 自动扣费, 老人 宽带 套餐 被坑, 老人 移动 套餐 被坑, 老人 联通 套餐 被坑, 老人 低价旅游 被骗, 老人 购物团 被骗, 老人 下载APP 领钱, 老人 扫码 领钱, 老人 微信群 被骗, 父母 直播 被骗, 我妈 直播 被骗, 我爸 抖音 被骗
+
+
+• Romance / Emotional Manipulation Terms: 黄昏恋, 征婚, 相亲, 网恋, 婚恋, 交友, 情感主播, 假军人, 杀猪盘, 谈恋爱, 主播
+
+
+• Romance / Emotional Manipulation Context Terms: 被骗, 骗子, 骗局, 坑, 忽悠, 洗脑, 转账, 借钱, 交钱, 花了, 万元, 几万, 上万, 杀猪盘, 假军人, 情感主播
+
+
+• Romance / Emotional Manipulation Context-Aware Queries: 老人 黄昏恋 被骗, 老人 征婚 被骗, 老人 相亲 被骗, 老人 网恋 被骗, 老人 婚恋 被骗, 老人 情感主播 被骗, 老人 假军人 被骗, 老人 杀猪盘, 父母 网恋 被骗, 我妈 网恋 被骗, 我爸 网恋 被骗
+
+
+• Eldercare / Nursing / Retirement-Service Terms: 养老服务, 养老院, 敬老院, 养老公寓, 养老基地, 养老项目, 养老产业, 养老床位, 养老机构, 护理院, 康养, 旅居养老, 抱团养老, 以房养老
+
+
+• Eldercare / Retirement-Service Context Terms: 被骗, 骗子, 骗局, 非法集资, 资金盘, 投资, 理财, 预付, 会员费, 床位费, 押金, 保证金, 跑路, 爆雷, 兑付, 退款, 退费, 拒退, 高收益, 返利, 分红, 合同, 抵押, 房产, 房本, 卖房, 贷款, 交钱, 万元, 几万, 上万
+
+
+• Eldercare / Retirement-Service Context-Aware Queries: 养老服务 被骗, 养老项目 被骗, 养老产业 非法集资, 养老公寓 投资 被骗, 养老公寓 会员费 跑路, 养老院 押金 不退, 养老床位 投资 被骗, 养老基地 非法集资, 以房养老 被骗, 以房养老 抵押, 以房养老 贷款, 老人 养老服务 交钱 被骗, 老人 养老公寓 退款
+
+
+• Terms No Longer Used as Standalone Queries: 父母 投资, 父母 理财, 父母 保险, 父母 买保险, 老人 保险, 老人 买保险, 老人 养老保险, 老人 报警, 老人 投诉, 老人 维权, 老人 追回, 老人 起诉, 老人 老人机, 老人 手机, 老人 平板, 老人 宽带, 老人 抖音, 老人 快手, 老人 养老服务, 老人 养老院, 老人 养老公寓, 老人 以房养老, 老人 翡翠, 老人 玉石, 老人 和田玉, 老人 玉镯, 老人 邮票, 老人 纪念币, 老人 纪念钞, 老人 钱币, 老人 古玩, 老人 古董, 老人 高电位, 老人 羊奶粉, 老人 蜂胶
+
+
+• Policy / Process Negative Guards: 怎么缴费, 如何缴费, 缴费档次, 缴费标准, 认证失败, 资格认证, 养老金认证, 养老保险查询, 社保查询, 养老金计算, 养老保险政策, 退休政策, 领取条件, 参保流程, 补贴政策, 民政部, 疫情防控, 智慧养老服务, 养老服务信息平台, 老年人能力评估师, 培训, 证书, 样本, 怎样报名, 费用, 报名
+
+
+• Recommendation / Appraisal Negative Guards: 求推荐, 推荐一下, 推荐一款, 哪个好, 哪个靠谱, 哪家好, 怎么买, 想买, 准备买, 给老人买, 给父母买, 给爸妈买, 买什么, 品牌推荐, 测评, 正规品牌, 可以吃, 有没有必要, 配置保险, 保险方案, 产品方案, 懂保险, 咨询一下, 帮忙看看, 帮我看看, 看一下, 值多少钱, 估价多少, 估价, 市场价, 鉴定一下, 真假鉴定, 真的假的, 爷爷留下, 奶奶留下, 祖传, 家传, 收藏交流
+
+
+• Family / Legal / Medical Non-Scam Negative Guards: 重男轻女, 赡养, 继承, 遗产, 离婚, 彩礼, 婆媳, 丈母娘, 父母离异, 工伤, 车祸, 交通事故, 撞倒, 肇事, 赔偿, 护理, 护工, 住院, 骨折, 医保, 新农合, 卖房还债, 儿女, 监护, 意定监护, 养老院不收, 偷跑出来
+
+
+• Advertisement / Publicity / Generic Warning Negative Guards: 招聘, 招募, 招商, 加盟, 代理, 供应, 厂家, 批发, 课程, 通知, 公告, 发布会, 科普, 宣传, 公益讲座, 反诈讲座, 新闻, 最新回应, 智慧养老, 通讯员, 实践队, 谨防, 提醒, 防止, 避免, 如何防骗, 怎样不被骗, 老人怎样不被骗, 不要再有老人被骗
+
+
+• Non-Elder Parent-Noise Negative Guards: 父母投资我, 父母投资孩子, 父母投资教育, 父母投资学习, 教育投资, 投资我, 值得投资, 父母不同意, 父母离异, 父母是干部, 父母没有多少钱, 父母朋友想借
+
+
+• Guard Override Terms: 被骗了, 已经被骗, 骗了几万, 被骗几万, 骗了十万, 被骗十万, 骗了几十万, 被骗几十万, 花了, 交了, 投了, 转账, 报警, 报案, 立案, 追回, 退款, 退费, 跑路, 爆雷, 杀猪盘, 非法集资, 传销, 资金盘, 国家发钱, 国家补贴, 民族资产, 下载APP, 保证金, 刷流水, 存款变保险, 自动扣费, 乱扣费, 高价回收, 鉴定费, 服务费, 会员费, 代办社保, 代办养老保险, 家里老人最近沉迷骗子, 沉迷骗子, 被拉进群, 洗脑, 忽悠
+
+
+Context-Aware Matching Rules
+
+
+• Strong Direct Rule: Keep posts that contain a direct elder-scam phrase such as 老人被骗, 养老诈骗, 养老钱被骗, or 专骗老人, unless the post is only a generic warning, policy discussion, advertisement, or appraisal question with no concrete scam case.
+
+
+• Family Weak Rule: Family-only phrases such as 父母被骗, 我妈被骗, or 我爸被骗 require at least one nearby elder-age, elder-money, scam-domain, or loss/action signal.
+
+
+• Elder Near Scam Rule: Keep posts where an elder or family-elder signal appears near a scam/fraud event signal, such as 老人 near 被骗, 我妈 near 洗脑, or 父母 near 传销.
+
+
+• Domain Context Rule: Domain terms such as 保健品, 投资, 保险, 翡翠, 养老院, 抖音, 老人机, or 低价旅游 require nearby elder/family signal plus nearby loss, manipulation, payment, complaint, or fraud signal.
+
+
+• Never-Standalone Rule: Weak terms listed under “Terms No Longer Used as Standalone Queries” should be used only with context terms. These terms can still be useful, but they should not independently place a post into the main keyword-hit pool.
+
+
+• Negative Guard Rule: Posts matching policy/process, recommendation/appraisal, legal-family, advertisement/publicity, or generic warning guards should be placed into the audit pool unless they also contain a guard override term.
+
+
+• Audit Pool Rule: Posts that match only weak domain terms, negative-guarded phrases, or broad generic warning language should be sampled separately as recall/precision audit examples rather than treated as main candidate elder-scam posts.
