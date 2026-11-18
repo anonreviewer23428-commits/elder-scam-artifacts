@@ -1,4 +1,4 @@
-“I Don’t Think It’s a Scam”: A First Look at Family Intervention Barriers in Elder Abuse Discussions on Reddit and Baidu Tieba
+# “I Don’t Think It’s a Scam”: A First Look at Family Intervention Barriers in Elder Abuse Discussions on Reddit and Baidu Tieba 
 
 This repository contains the data-collection and annotation artifacts for our study of scams affecting older adults on Reddit and Baidu Tieba. For each platform (reddit and tieba), the files follow three parts of the workflow: keyword retrieval and filtering, the post or thread IDs retained in the screened corpus, and the codebooks and prompts used for labeling. Raw post text and source-post examples are not included.
 
